@@ -13,6 +13,6 @@ HOW TO USE IT:
 
 <icons>
   <line>
-    <icon name="Template" ID="1" color="#666" locked="false" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
+    <icon name="Shpongle" ID="1" color="#0090FF" locked="false" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
   </line>
 </icons>
