@@ -2,7 +2,7 @@
 // To add more versions, copy the versions.v1 and replace with versions.v2, and the same with others (it support more than 9 versions)
 
 versions.v1 = {
-  name: "The Shpongle Land",
+    name: "The Shpongle Land",
   version: "v1",
   date: "2025",
   folder: "asset-v1/",
@@ -12,15 +12,15 @@ versions.v1 = {
   totalframe: 384,
   nbpolo: 7,
   maxrecloop: 24,
-  bonusloopA: !0, 
-  bonusendloopA: !4,
+  bonusloopA: true, 
+  bonusendloopA: true,
   colBck: "#FFFF74",
   col0: "#000000",
   col1: "#FF6A00",
   col2: "#FF6A00",
   col3: "#FF6A00",
   col4: "#FF6A00",
-  animearray: [
+   animearray: [
     {
       name: "01_Cyberg",
       color: "0056E3",
@@ -140,9 +140,3 @@ versions.v1 = {
   bonusarray: [
   ],
 };
-
-// versions.v2 = {
-//  name: "New Version",
-// version: "2",
-// date: "2025",
-// ...
